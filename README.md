@@ -2,8 +2,6 @@
 
 An interactive **Power BI** dashboard that gives end-to-end visibility into Samsung's supply chain — from suppliers and procurement, through inventory and shipment, to customers and sales channels.
 
-<img width="1331" height="747" alt="Screenshot 1 " src="https://github.com/user-attachments/assets/ccb94eea-bc37-4de1-83ac-2da8c46d7c62" />
-
 ---
 
 ## 📌 Table of Contents
@@ -13,9 +11,6 @@ An interactive **Power BI** dashboard that gives end-to-end visibility into Sams
 - [Key Metrics](#-key-metrics)
 - [Key Insights](#-key-insights)
 - [Tools & Skills](#-tools--skills)
-- [Project Structure](#-project-structure)
-- [How to Use](#-how-to-use)
-- [Author](#-author)
 
 ---
 
@@ -47,6 +42,8 @@ Supply chain data is usually scattered across suppliers, warehouses, carriers an
 
 ### 1. Home
 Landing page with navigation to all sections.
+<img width="1331" height="747" alt="Screenshot 1 " src="https://github.com/user-attachments/assets/ccb94eea-bc37-4de1-83ac-2da8c46d7c62" />
+
 
 ### 2. Overview
 High-level KPIs (revenue, profit, margin, perfect order %) plus entry points to each section, with quick charts for supplier lead time, inventory stock, delays by carrier and revenue by platform.
