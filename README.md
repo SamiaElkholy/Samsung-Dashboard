@@ -51,31 +51,31 @@ Landing page with navigation to all sections.
 ### 2. Overview
 High-level KPIs (revenue, profit, margin, perfect order %) plus entry points to each section, with quick charts for supplier lead time, inventory stock, delays by carrier and revenue by platform.
 
-![Overview] <img width="1327" height="740" alt="Screenshot 2" src="https://github.com/user-attachments/assets/73076184-8d04-4309-ab53-82103a121623" />
+ <img width="1327" height="740" alt="Screenshot 2" src="https://github.com/user-attachments/assets/73076184-8d04-4309-ab53-82103a121623" />
 
 
 ### 3. Supplier
 Procurement and supplier performance: unit cost, order quantity by month, lead time, quality score, revenue/profit split by product category, and a detailed product table.
 
-![Supplier]<img width="1435" height="805" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e7aed304-c98a-497b-9241-7bdcb792fa79" />
+<img width="1435" height="805" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e7aed304-c98a-497b-9241-7bdcb792fa79" />
 
 
 ### 4. Inventory & Production
 Inventory value, safety stock, turnover, defective units, monthly trends, and current stock vs. safety stock vs. reorder point by product.
 
-![Inventory]<img width="1432" height="812" alt="Screenshot4" src="https://github.com/user-attachments/assets/0a7067dc-6b54-4788-b4dc-900441c2b27b" />
+<img width="1432" height="812" alt="Screenshot4" src="https://github.com/user-attachments/assets/0a7067dc-6b54-4788-b4dc-900441c2b27b" />
 
 
 ### 5. Shipment
 Shipment volume and cost, delivered vs. delayed shipments by carrier, shipment status, monthly shipment cost, and delay reasons.
 
-![Shipment]<img width="1426" height="800" alt="Screenshot 5" src="https://github.com/user-attachments/assets/8d93614b-80c1-4caa-9065-70b6316db1f3" />
+<img width="1426" height="800" alt="Screenshot 5" src="https://github.com/user-attachments/assets/8d93614b-80c1-4caa-9065-70b6316db1f3" />
 
 
 ### 6. Customer
 Revenue and profit by channel type and customer, discount analysis by category and product, and growth trend by month.
 
-![Customer]<img width="1428" height="791" alt="Screenshot 6" src="https://github.com/user-attachments/assets/8ec55d3d-c7c7-458c-a4ac-2a4852e6fb0d" />
+<img width="1428" height="791" alt="Screenshot 6" src="https://github.com/user-attachments/assets/8ec55d3d-c7c7-458c-a4ac-2a4852e6fb0d" />
 
 
 ---
